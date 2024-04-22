@@ -1,4 +1,4 @@
-![image](https://github.com/Rachel807/Task_1/assets/162300924/613bdc23-f192-41d0-908c-35d5b7c6a458)Task_1
+Task_1
 Project name: Online shop 
 
 Description: In this project I created an online store page displaying the products sold at a baking shop. I made use of bootstrap and CSS to customize and design the page, making use of the grid feature to align the pictures of the products. 
